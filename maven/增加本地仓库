@@ -1,0 +1,9 @@
+<repositories>
+    <repository>
+      <id>liid</id>
+      <url>file://${project.basedir}/lib</url>
+      <name>sss</name>
+    </repository>
+  </repositories>
+ 
+ lib文件夹里的目录结构应与正常maven结构保持一致，依次是包名，版本号，jar包
