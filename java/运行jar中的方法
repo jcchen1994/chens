@@ -1,0 +1,2 @@
+java -classpath ****.jar ****.****.className [args]
+其中: [args] 可以不用写。
