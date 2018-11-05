@@ -1,0 +1,3 @@
+Comparator接口代码更加灵活，可以定义某个类的多个比较器，从而在排序时根据实际场景自由调用，而Comparable接口实现后便不能改动。
+Comparable属于内部比较器，Comparator属于外部比较器。
+Comparable 实现compareTo方法，Comparable实现compare方法
