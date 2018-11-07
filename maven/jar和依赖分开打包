@@ -30,3 +30,4 @@
                 <outputDirectory>${project.build.directory}/lib</outputDirectory>
             </configuration>
         </plugin>
+        <plugins>
